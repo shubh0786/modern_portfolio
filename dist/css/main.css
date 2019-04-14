@@ -103,7 +103,7 @@ body {
   body#bg-img {
     background: url(../img/ext.jpg);
     background-attachment: fixed;
-    background-size: cover; }
+    background-size: fixed; }
     body#bg-img:after {
       content: "";
       position: absolute;
